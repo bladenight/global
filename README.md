@@ -1,5 +1,8 @@
 global
 ======
 
-This repository doesn't contain code. It is just a container for our global Wiki and bug tracking.
+This repository doesn't contain code. It is just a container for:
+* [our wiki](https://github.com/bladenight/global/wiki)
+* [the bug tracking](https://github.com/bladenight/global/issues)
+
 
